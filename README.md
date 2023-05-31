@@ -1,4 +1,5 @@
 ## Menambahkan fungsi CRUD pada program sebelumya dan menggunakan database
+### mengikuti petunjuk pada module praktikum 8
 <img src="ss/6.png">
 <img src="ss/1.png">
 <img src="ss/2.png">
